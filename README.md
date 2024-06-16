@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarun1001
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning full stack 
+
 - 💞️ I’m looking to collaborate on mobile app development
 - 📫 How to reach me : @tarunn__ on twitter
 
