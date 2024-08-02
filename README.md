@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tarun1001
+- 👋 Hi, I’m Tarun Sanaboyina
 - 👀 I’m interested in application development
 
 - 💞️ I’m looking to collaborate on mobile app development
